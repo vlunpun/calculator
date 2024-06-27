@@ -14,3 +14,5 @@ This is a basic calculator project implemented in Python.
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/calculator.git
+
+![Deploy badge](https://github.com/vlunpun/calculator/actions/workflows/.yaml/badge.svg)
