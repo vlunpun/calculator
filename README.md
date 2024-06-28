@@ -15,4 +15,4 @@ This is a basic calculator project implemented in Python.
    ```sh
    git clone https://github.com/yourusername/calculator.git
 
-![example workflow](https://github.com/vlunpun/calculator/actions/workflows/main.yaml/badge.svg?branch=BRANCH-NAME)
+![Deploy badge](https://github.com/vlunpun/calculator/actions/workflows/.yaml/badge.svg?event=push)
